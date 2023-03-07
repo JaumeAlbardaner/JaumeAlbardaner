@@ -1,5 +1,7 @@
 ### Hello stranger, welcome to my profile 👋
 
+*Don't reinvent the wheel, git clone it*
+
 - 🔭 I’m currently working on personal projects involving robots & programming.
 - 🌱 I’m currently studying a MS in Automatics & Robotics @ Universitat Politècnica de Catalunya (UPC).
 - :monocle_face: Curious to learn anything that can be implemented on robots.
